@@ -1,7 +1,13 @@
 # 👋 Hi, I’m Sajanm2058
 
 ## 🚀 About Me
-I am passionate about **Data Science, Machine Learning (ML), Artificial Intelligence (AI), and Deep Learning**. I enjoy exploring new algorithms, analyzing data, and building predictive models to solve real-world problems.
+
+---
+
+**I am an Electronics, Communication, and Information Engineer with a strong passion for Artificial Intelligence (AI), Machine Learning (ML), Large Language Models (LLMs), Natural Language Processing (NLP), and Computer Vision. I enjoy exploring cutting-edge algorithms, analyzing data, and developing innovative solutions that bridge technology and real-world applications.**
+
+---
+
 
 ## 👀 Interests
 - Data Science & Analytics
