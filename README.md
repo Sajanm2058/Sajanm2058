@@ -28,7 +28,7 @@
 - MLOps & Deployment of ML Models
 - Reinforcement Learning
 
-##🛠 Tech Stack:
+## 🛠 Tech Stack:
 Python · PyTorch · TensorFlow · NumPy · Pandas · scikit-learn · Hugging Face · Git · Linux
 
 ## 💞️ Looking to Collaborate On
