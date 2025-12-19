@@ -14,11 +14,13 @@
 
 
 ## 👀 Interests
+- Natural Language Processing(NLP)
+- Large Language Models(LLMs)
 - Data Science & Analytics
 - Machine Learning & AI
 - Deep Learning & Neural Networks
 - Time Series Analysis
-- Big Data & Cloud Computing
+- Multimodal AI
 
 ## 🌱 Currently Learning
 - Advanced Deep Learning architectures (CNNs, RNNs, Transformers)
@@ -26,11 +28,16 @@
 - MLOps & Deployment of ML Models
 - Reinforcement Learning
 
+##🛠 Tech Stack:
+Python · PyTorch · TensorFlow · NumPy · Pandas · scikit-learn · Hugging Face · Git · Linux
+
 ## 💞️ Looking to Collaborate On
-- Open-source Data Science projects
-- AI-driven applications
-- Time Series Forecasting
-- NLP and Computer Vision
+
+- Research projects in Natural Language Processing (NLP)
+- Machine Learning and Deep Learning experiments
+- Transformer-based models and sequence modeling
+- Multimodal AI and scalable, reproducible research pipelines
+- Open-source AI/ML tools and methodological innovations
 
 ## 📫 How to Reach Me
 - 📧 Email: sajanm2058@gmail.cpm
